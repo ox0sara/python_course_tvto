@@ -26,8 +26,9 @@ python-course-tvto/
 │   │      ├── get_user_name.py
 │   │      └── note.md
 │   └── session02
-│   │      ├──
-│   │      ├──
+│   │      ├── compare_number.py
+│   │      ├── registeration_age_checker.py
+│   │      ├── grade_evaluater.py
 │   │      └── note.md
 ├── week01
 │   ├── notes.md
