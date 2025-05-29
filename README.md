@@ -19,29 +19,47 @@ With a wide network of training centers across Iran, TVTO is committed to:
 ```plaintext
 python-course-tvto/
 ├── README.md                   # Course overview and information
-├── week01_intro/              # Week 1: Introduction to Python
+├── week00/              # Week 1: Introduction to Python
+│   ├── note.md
+│   ├── session01
+│   │      ├── hello_world.py
+│   │      ├── get_user_name.py
+│   │      └── note.md
+│   └── session02
+│   │      ├── compare_number.py
+│   │      ├── registeration_age_checker.py
+│   │      ├── grade_evaluater.py
+│   │      └── note.md
+├── week01
 │   ├── notes.md
-│   ├── variables.py
-│   └── input_output.py
-├── week02_conditions_loops/   # Week 2: Conditions and Loops
+│   ├── 
+│   │      ├── 
+│   │      ├── 
+│   │      └── note.md
+│   └── session02
+│   │      ├──
+│   │      ├──
+│   │      └── note.md
+├── week02
 │   ├── notes.md
-│   ├── if_else.py
-│   └── loops.py
-├── week03_functions/          # Week 3: Functions
+│   ├── 
+│   │      ├── 
+│   │      ├── 
+│   │      └── note.md
+│   └── session02
+│   │      ├──
+│   │      ├──
+│   │      └── note.md
+├── week03
 │   ├── notes.md
-│   ├── functions.py
-│   └── recursion.py
-├── week04_lists_dicts/        # Week 4: Lists and Dictionaries
-│   ├── notes.md
-│   ├── lists.py
-│   └── dictionaries.py
-├── week05_oop/                # Week 5: Object-Oriented Programming
-│   ├── notes.md
-│   ├── classes.py
-│   └── inheritance.py
-├── week06_project/            # Week 6: Final Project
-│   ├── notes.md
-│   └── project_code.py
+│   ├── 
+│   │      ├── 
+│   │      ├── 
+│   │      └── note.md
+│   └── session02
+│   │      ├──
+│   │      ├──
+│   │      └── note.md
 └── resources/                 # Extra resources
     └── python_cheatsheet.pdf
 ```
