@@ -20,7 +20,7 @@ With a wide network of training centers across Iran, TVTO is committed to:
 python-course-tvto/
 ├── README.md                   # Course overview and information
 ├── week00/              # Week 1: Introduction to Python
-│   ├── notes.md
+│   ├── note.md
 │   ├── session01
 │   │      ├── hello_world.py
 │   │      ├── get_user_name.py
