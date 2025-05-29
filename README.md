@@ -29,25 +29,36 @@ python-course-tvto/
 │   │      ├──
 │   │      ├──
 │   │      └── note.md
-├── week02_conditions_loops/   # Week 2: Conditions and Loops
+├── week01
 │   ├── notes.md
-│   ├── if_else.py
-│   └── loops.py
-├── week03_functions/          # Week 3: Functions
+│   ├── 
+│   │      ├── 
+│   │      ├── 
+│   │      └── note.md
+│   └── session02
+│   │      ├──
+│   │      ├──
+│   │      └── note.md
+├── week02
 │   ├── notes.md
-│   ├── functions.py
-│   └── recursion.py
-├── week04_lists_dicts/        # Week 4: Lists and Dictionaries
+│   ├── 
+│   │      ├── 
+│   │      ├── 
+│   │      └── note.md
+│   └── session02
+│   │      ├──
+│   │      ├──
+│   │      └── note.md
+├── week03
 │   ├── notes.md
-│   ├── lists.py
-│   └── dictionaries.py
-├── week05_oop/                # Week 5: Object-Oriented Programming
-│   ├── notes.md
-│   ├── classes.py
-│   └── inheritance.py
-├── week06_project/            # Week 6: Final Project
-│   ├── notes.md
-│   └── project_code.py
+│   ├── 
+│   │      ├── 
+│   │      ├── 
+│   │      └── note.md
+│   └── session02
+│   │      ├──
+│   │      ├──
+│   │      └── note.md
 └── resources/                 # Extra resources
     └── python_cheatsheet.pdf
 ```
