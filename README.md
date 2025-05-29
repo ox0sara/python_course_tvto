@@ -54,11 +54,7 @@ This repository includes:
 - 🛠️ Exercises and hands-on projects  
 - 📦 Additional resources and references
 
----
-
-
-
-
+```
 
 ## 🎯 Course Objectives
 
