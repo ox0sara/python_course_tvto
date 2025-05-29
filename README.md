@@ -68,7 +68,6 @@ This repository includes:
 ## 🧑‍💻 Tools & Technologies
 
 - Python 3.x  
-- Jupyter Notebook (optional)  
 - VS Code / PyCharm  
 
 ---
