@@ -19,10 +19,16 @@ With a wide network of training centers across Iran, TVTO is committed to:
 ```plaintext
 python-course-tvto/
 ├── README.md                   # Course overview and information
-├── week01_intro/              # Week 1: Introduction to Python
+├── week00/              # Week 1: Introduction to Python
 │   ├── notes.md
-│   ├── variables.py
-│   └── input_output.py
+│   ├── session01
+│   │      ├── hello_world.py
+│   │      ├── get_user_name.py
+│   │      └── note.md
+│   └── session02
+│   │      ├──
+│   │      ├──
+│   │      └── note.md
 ├── week02_conditions_loops/   # Week 2: Conditions and Loops
 │   ├── notes.md
 │   ├── if_else.py
