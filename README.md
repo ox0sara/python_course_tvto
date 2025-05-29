@@ -16,34 +16,34 @@ With a wide network of training centers across Iran, TVTO is committed to:
 
 ---
 
-## 📁 Folder Structure
+```plaintext
 python-course-tvto/
-│
-├── README.md # Course overview and information
-│
-├── week01_intro/ # Week 1: Introduction to Python
-│ ├── notes.md
-│ ├── 
-│ └── 
-│
-├── week02_conditions_loops/ # Week 2:
-│ ├── notes.md
-│ ├── 
-│ └── 
-│
-├── week03_functions/ # Week 3: 
-│ ├── notes.md
-│ ├── 
-│ └── 
-│
-├── week04_lists_dicts/ # Week 4: 
-│ ├── notes.md
-│ ├── 
-│ └── 
-│
-└── resources/ # Extra resources
-└── python_cheatsheet.pdf
-
+├── README.md                   # Course overview and information
+├── week01_intro/              # Week 1: Introduction to Python
+│   ├── notes.md
+│   ├── variables.py
+│   └── input_output.py
+├── week02_conditions_loops/   # Week 2: Conditions and Loops
+│   ├── notes.md
+│   ├── if_else.py
+│   └── loops.py
+├── week03_functions/          # Week 3: Functions
+│   ├── notes.md
+│   ├── functions.py
+│   └── recursion.py
+├── week04_lists_dicts/        # Week 4: Lists and Dictionaries
+│   ├── notes.md
+│   ├── lists.py
+│   └── dictionaries.py
+├── week05_oop/                # Week 5: Object-Oriented Programming
+│   ├── notes.md
+│   ├── classes.py
+│   └── inheritance.py
+├── week06_project/            # Week 6: Final Project
+│   ├── notes.md
+│   └── project_code.py
+└── resources/                 # Extra resources
+    └── python_cheatsheet.pdf
 ---
 
 ## 📚 Repository Contents
