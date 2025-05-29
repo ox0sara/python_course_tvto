@@ -44,7 +44,7 @@ python-course-tvto/
 │   └── project_code.py
 └── resources/                 # Extra resources
     └── python_cheatsheet.pdf
----
+```
 
 ## 📚 Repository Contents
 
@@ -54,7 +54,7 @@ This repository includes:
 - 🛠️ Exercises and hands-on projects  
 - 📦 Additional resources and references
 
-```
+
 
 ## 🎯 Course Objectives
 
