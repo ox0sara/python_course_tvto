@@ -1,4 +1,4 @@
-# 🗓️ Week 00 – Getting Started with Python
+# 🗓️ First Session – Getting Started with Python
 In our first session, we got familiar with the basics of Python programming.
 
 ---
