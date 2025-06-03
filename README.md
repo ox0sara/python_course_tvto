@@ -2,8 +2,6 @@
 
 # PYTHON_COURSE_TVTO
 
-*Master Python, Empower Your Future Today!*
-
 ![Last Commit](https://img.shields.io/github/last-commit/ox0sara/python_course_tvto)
 ![Updated](https://img.shields.io/badge/last-thursday-blue)
 ![Python](https://img.shields.io/badge/python-100%25-blue)
