@@ -1,3 +1,4 @@
+<div align="center">
 # python_course_tvto
 
 
@@ -12,6 +13,8 @@
 
 ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+
+</div>
 
 # 🐍 Python Course – Iran Technical and Vocational Training Organization (TVTO)
 
