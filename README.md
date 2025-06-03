@@ -1,7 +1,5 @@
 # python_course_tvto
 
-# PYTHON_COURSE_TVTO
-
 
 ![last commit](https://img.shields.io/github/last-commit/ox0sara/python_course_tvtoe)
 ![last thursday](https://img.shields.io/badge/last-thursday-blue)
