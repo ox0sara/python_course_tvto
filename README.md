@@ -1,4 +1,20 @@
 # python_course_tvto
+
+# PYTHON_COURSE_TVTO
+
+
+![last commit](https://img.shields.io/github/last-commit/ox0sara/python_course_tvtoe)
+![last thursday](https://img.shields.io/badge/last-thursday-blue)
+![python](https://img.shields.io/badge/python-100%25-blue)
+![languages](https://img.shields.io/badge/languages-1-inactive)
+
+---
+
+*Built with the tools and technologies:*
+
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+
 # 🐍 Python Course – Iran Technical and Vocational Training Organization (TVTO)
 
 Welcome to my repository for the **Python course** I'm currently attending at the **Iran Technical and Vocational Training Organization (TVTO)**. This repository contains exercises, notes, and projects that reflect my learning progress throughout the course.
