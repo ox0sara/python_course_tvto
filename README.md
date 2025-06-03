@@ -8,12 +8,6 @@
 ![Updated](https://img.shields.io/badge/last-thursday-blue)
 ![Python](https://img.shields.io/badge/python-100%25-blue)
 ![Languages](https://img.shields.io/badge/languages-1-inactive)
-
----
-
-*Built with the tools and technologies:*
-
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 </div>
