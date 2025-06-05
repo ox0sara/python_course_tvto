@@ -16,53 +16,29 @@ With a wide network of training centers across Iran, TVTO is committed to:
 
 ---
 
-```plaintext
-python-course-tvto/
-├── README.md                   # Course overview and information
-├── week00/              # Week 1: Introduction to Python
-│   ├── note.md
-│   ├── session01
-│   │      ├── hello_world.py
-│   │      ├── get_user_name.py
-│   │      └── note.md
-│   └── session02
-│   │      ├── compare_number.py
-│   │      ├── registeration_age_checker.py
-│   │      ├── grade_evaluater.py
-│   │      └── note.md
-├── week01
-│   ├── notes.md
-│   ├── 
-│   │      ├── 
-│   │      ├── 
-│   │      └── note.md
-│   └── session02
-│   │      ├──
-│   │      ├──
-│   │      └── note.md
-├── week02
-│   ├── notes.md
-│   ├── 
-│   │      ├── 
-│   │      ├── 
-│   │      └── note.md
-│   └── session02
-│   │      ├──
-│   │      ├──
-│   │      └── note.md
-├── week03
-│   ├── notes.md
-│   ├── 
-│   │      ├── 
-│   │      ├── 
-│   │      └── note.md
-│   └── session02
-│   │      ├──
-│   │      ├──
-│   │      └── note.md
-└── resources/                 # Extra resources
-    └── python_cheatsheet.pdf
-```
+<!-- DIRSTRUCTURE_START_MARKER -->
+<pre>
+python_course_tvto/
+├─ README.md .......................... 
+├─ resources/ ......................... 
+├─ week00/ ............................ 
+│  ├─ note.md ......................... 
+│  ├─ session01/ ...................... 
+│  │  ├─ get_user_name.py ............. 
+│  │  ├─ hello_world.py ............... 
+│  │  └─ note.md ...................... 
+│  └─ session02/ ...................... 
+│     ├─ compare_number.py ............ 
+│     ├─ grade_evaluater.py ........... 
+│     ├─ note.md ...................... 
+│     └─ registeration_age_checker.py . 
+├─ week01/ ............................ 
+├─ week02/ ............................ 
+├─ week03/ ............................ 
+└─ week04/ ............................ 
+</pre>
+<!-- DIRSTRUCTURE_END_MARKER -->
+
 
 ## 📚 Repository Contents
 
